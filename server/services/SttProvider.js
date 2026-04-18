@@ -131,7 +131,6 @@ class SttProvider {
     }
     return null;
   }
-  }
 }
 
 export default new SttProvider();
